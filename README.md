@@ -5,327 +5,381 @@
 ### FULL STACK DEVELOPER
 
 <p>
-  <strong>Construyo productos digitales modernos que resuelven problemas reales.</strong>
+  Building modern digital products that solve real problems.
 </p>
 
 <br>
 
-<a href="https://richard-porfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=0B1117" />
+<a href="https://richard-porfolio.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=flat-square&logo=googlechrome&logoColor=0B1117" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/richard-bouza-acosta-dev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00C7B7?style=for-the-badge&logo=linkedin&logoColor=0B1117" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00C7B7?style=flat-square&logo=linkedin&logoColor=0B1117" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:codingcrow653@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-00C7B7?style=for-the-badge&logo=gmail&logoColor=0B1117" />
+  <img src="https://img.shields.io/badge/EMAIL-00C7B7?style=flat-square&logo=gmail&logoColor=0B1117" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C7B7&height=2" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C7B7&height=2" width="55%"/>
 
 </div>
 
 <br>
 
-## `01 / SOBRE MÍ`
+## About
 
-Soy **Richard Bouza Acosta**, Full Stack Developer con casi cuatro años
-de experiencia construyendo aplicaciones web, plataformas SaaS y
-soluciones digitales para empresas y emprendedores.
+I'm **Richard Bouza Acosta**, a Full Stack Developer focused on building
+modern web applications, SaaS platforms and custom digital solutions.
 
-Me interesa especialmente la intersección entre **software, producto
-y negocio**.
+I enjoy taking an idea from concept to a working product — designing the
+architecture, building the interface, developing the backend, connecting
+the database and deploying the final solution.
 
-No busco simplemente escribir código.
+My focus is not only on writing code, but on understanding **why a product
+exists and what problem it should solve**.
 
-> **Busco construir soluciones que tengan un propósito.**
+<br>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   IDEA  →  ARQUITECTURA  →  DEVELOPMENT  →  DEPLOYMENT     │
-│                                                             │
-│                       ↓                                     │
-│                  OPTIMIZATION                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-02 / QUÉ HAGO
-<table> <tr> <td width="50%" valign="top">
-◈ FULL STACK
-
-Desarrollo de aplicaciones web completas
-desde el frontend hasta la infraestructura.
-
-Aplicaciones web
-REST APIs
-Autenticación
-Roles y permisos
-Dashboards
-Bases de datos
-Integraciones
-</td> <td width="50%" valign="top">
-◉ SAAS
-
-Diseño y desarrollo de productos SaaS
-orientados a problemas reales.
-
-Multiusuario
-Arquitectura escalable
-Gestión de usuarios
-Suscripciones
-Sistemas administrativos
-Automatización
-</td> </tr> <tr> <td width="50%" valign="top">
-◇ BUSINESS SYSTEMS
-
-Software personalizado para mejorar
-procesos empresariales.
-
-CRMs
-Gestión de clientes
-Inventarios
-Sistemas financieros
-Gestión de servicios
-Automatización
-</td> <td width="50%" valign="top">
-△ WEB & UX
-
-Experiencias digitales rápidas, modernas
-y enfocadas en resultados.
-
-Landing pages
-Sitios corporativos
-Responsive design
-SEO
-Performance
-UI/UX
-</td> </tr> </table>
-03 / STACK
 <div align="center">
-FRONTEND
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+
+### CODE · DESIGN · SOLUTIONS · IMPACT
+
+</div>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### Full Stack Applications
+
+Modern applications built from the ground up.
+
+- Frontend architecture
+- Backend development
+- REST APIs
+- Authentication
+- Database design
+- Role-based permissions
+- Admin dashboards
+
+</td>
+
+<td width="50%">
+
+### SaaS Products
+
+Business-oriented platforms designed to grow.
+
+- Multi-user systems
+- Business logic
+- Subscription-ready architecture
+- Secure data access
+- Analytics
+- Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Business Software
+
+Custom systems designed around real workflows.
+
+- Management systems
+- CRMs
+- Financial systems
+- Inventory
+- Appointment systems
+- Internal tools
+
+</td>
+
+<td width="50%">
+
+### Web Experiences
+
+Modern websites focused on usability and conversion.
+
+- Landing pages
+- Corporate websites
+- Responsive interfaces
+- Interactive experiences
+- Performance
+- SEO
+
+</td>
+</tr>
+</table>
+
+---
+
+# Technology
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
 
 <br><br>
 
-BACKEND
+### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel" />
 
 <br><br>
 
-DATABASE
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite" />
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,sqlite" />
 
 <br><br>
 
-DEVOPS & TOOLS
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /> </div>
-04 / CORE SKILLS
-<div align="center">
-DEVELOPMENT	ARCHITECTURE	PRODUCT
-⚡ Full Stack	🧩 Scalable Systems	🎯 Problem Solving
-🔌 REST APIs	🏗️ Clean Architecture	📊 Business Logic
-🗄️ Databases	🔐 Security	🚀 Performance
-🎨 UI/UX	☁️ Deployment	💡 Product Thinking
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+
 </div>
-05 / FEATURED PROJECT
+
+---
+
+# Featured Project
+
 <div align="center">
-🦷 CLINICFLOW AI
-SaaS para Clínicas Odontológicas
 
-Plataforma de gestión integral diseñada para digitalizar
-el flujo de trabajo de clínicas odontológicas.
+## CLINICFLOW AI
 
-<br> <a href="https://clinicflow-ai-hazel.vercel.app/"> <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-00C7B7?style=for-the-badge&logo=vercel&logoColor=0B1117" /> </a> </div> <br>
-Sistema
-┌─────────────────────────────────────────────────────────────┐
-│                       CLINICFLOW AI                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  👤 Pacientes              📅 Citas                         │
-│  🦷 Odontograma            🩺 Historial clínico             │
-│  💊 Tratamientos            💰 Pagos                        │
-│  📄 Presupuestos            🧾 Recibos                      │
-│  📊 Dashboard               👥 Usuarios                     │
-│  🔐 Roles & permisos        🗄️ PostgreSQL                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-Arquitectura
-                    ┌─────────────────┐
-                    │   NEXT.JS APP   │
-                    └────────┬────────┘
-                             │
-                    ┌────────▼────────┐
-                    │   TYPESCRIPT    │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-       ┌──────▼──────┐              ┌───────▼───────┐
-       │   SUPABASE  │              │  POSTGRESQL   │
-       │     AUTH    │              │   DATABASE    │
-       └─────────────┘              └───────────────┘
-                             │
-                    ┌────────▼────────┐
-                    │     VERCEL      │
-                    └─────────────────┘
-Stack
+### Dental Clinic Management SaaS
 
-Next.js React TypeScript Tailwind CSS
-Supabase PostgreSQL Vercel
+A complete digital platform designed to help dental clinics manage
+their patients, appointments, clinical workflows and finances.
 
-06 / SELECTED PROJECTS
+<br>
+
+<a href="https://clinicflow-ai-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-00C7B7?style=for-the-badge&logo=vercel&logoColor=0B1117"/>
+</a>
+
+</div>
+
+<br>
+
+### Core Features
+
+| Area | Functionality |
+|---|---|
+| Patients | Patient management and clinical records |
+| Appointments | Scheduling and appointment management |
+| Calendar | Visual appointment calendar |
+| Dental | Interactive odontogram |
+| Treatments | Dental treatment plans and procedures |
+| Budgets | Treatment budgets |
+| Payments | Payment tracking and financial status |
+| Receipts | Digital payment receipts |
+| Dashboard | Business and dental KPIs |
+| Users | Multi-user architecture |
+| Security | Role-based access and Row Level Security |
+
+### Architecture
+
+<div align="center">
+
+```text
+                    CLINICFLOW AI
+                         │
+                         ▼
+                    NEXT.JS / REACT
+                         │
+                         ▼
+                     TYPESCRIPT
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+          SUPABASE              POSTGRESQL
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                       VERCEL
+</div>
+
+Stack: Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Vercel
+
+Selected Projects
 <table> <tr> <td width="50%" valign="top">
-⚡ VOLTRIDE
+⚡ VoltRide
 
-E-Commerce Platform
+Electric Tricycle Platform
 
-Plataforma para la venta y gestión
-de triciclos eléctricos.
+A modern platform for an electric tricycle dealership.
 
-Features
+Built with
 
-Catálogo de productos
-Filtros
-Panel administrativo
-Gestión de pedidos
-Autenticación
-Gestión de imágenes
+Next.js Express PostgreSQL Prisma
 
-Next.js Express PostgreSQL
+Includes
 
+Product catalog
+Search & filtering
+Administration
+Order management
+Authentication
+Image management
 </td> <td width="50%" valign="top">
-🚘 AUTODEALER PRO
+🚘 AutoDealer Pro
 
-Dealership Management System
+Vehicle Management System
 
-Sistema completo para la gestión
-de concesionarios.
+Full-stack management platform for vehicle dealerships.
 
-Features
-
-Inventario
-Vehículos
-Clientes
-Ventas
-Reportes
-Dashboard
+Built with
 
 Python Flask SQLite
 
+Includes
+
+Vehicle inventory
+Search
+Customer management
+CRUD operations
+Administration
+Dashboard
 </td> </tr> <tr> <td width="50%" valign="top">
-🌊 VISTAMAR RESIDENCES
+🌊 VistaMar Residences
 
 Real Estate Platform
 
-Plataforma inmobiliaria enfocada en
-generación y gestión de prospectos.
+Digital platform focused on property presentation
+and lead generation.
 
-Features
+Built with
 
-Propiedades
-Filtros
-API REST
-Dashboard
-Leads
-Gestión inmobiliaria
+Python Flask SQLAlchemy
 
-Flask SQLAlchemy REST API
+Includes
 
+Property management
+Search & filtering
+REST API
+Lead management
+Server-side validation
 </td> <td width="50%" valign="top">
-🏗️ TERRA CONSTRUCTORA
+🏗️ Terra Constructora
 
-Digital Experience
+Real Estate Experience
 
-Experiencia web enfocada en
-presentación y conversión.
+Interactive web experience focused on property
+presentation and lead generation.
 
-Features
-
-Calculadora
-Simulador hipotecario
-Propiedades
-Experiencia 360°
-Captación de leads
+Built with
 
 HTML CSS JavaScript
 
+Includes
+
+Mortgage calculator
+Property filtering
+Interactive experiences
+360° virtual tour
+Lead generation
 </td> </tr> </table>
-07 / DEVELOPMENT PHILOSOPHY
+How I Approach Development
 <div align="center">
-UNDERSTAND → DESIGN → BUILD → MEASURE → IMPROVE
+UNDERSTAND → DESIGN → BUILD → DEPLOY → IMPROVE
 </div>
+
+I believe good software starts before the first line of code.
+
 01 — Understand
 
-Antes del código viene el problema.
+Understand the problem, the users and the business requirements.
 
 02 — Design
 
-Una buena arquitectura permite que el producto evolucione.
+Choose the right architecture and define how the pieces should work together.
 
 03 — Build
 
-Código limpio, mantenible y orientado a resolver necesidades reales.
+Write clean, maintainable code focused on solving the actual problem.
 
-04 — Measure
+04 — Deploy
 
-Performance, experiencia de usuario y resultados importan.
+Turn the application into a real product that people can use.
 
 05 — Improve
 
-Un producto nunca está realmente terminado.
+Measure, learn and continuously improve the product.
 
-08 / GITHUB ACTIVITY
+Currently Building
 <div align="center">
+ClinicFlow AI
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarkCrow653&show_icons=true&hide_border=true&bg_color=0B1117&title_color=00C7B7&icon_color=00C7B7&text_color=C8D1D9" width="48%" />
+Dental SaaS · Product Development · Optimization
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkCrow653&hide_border=true&background=0B1117&ring=00C7B7&fire=12E0CE&currStreakLabel=00C7B7&sideLabels=C8D1D9&dates=7D8590" width="48%" />
+<br>
+Full Stack Projects
 
-<br><br>
+Modern applications · APIs · Business Systems
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCrow653&layout=compact&hide_border=true&bg_color=0B1117&title_color=00C7B7&text_color=C8D1D9" width="45%" />
+<br>
+AI Experiments
+
+Exploring practical applications of artificial intelligence
+
+<br>
+Open Source
+
+Building and sharing useful projects through GitHub
 
 </div>
-09 / CURRENT FOCUS
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ● CLINICFLOW AI                                            │
-│    Dental SaaS · Product Development · Optimization         │
-│                                                             │
-│  ● FULL STACK PROJECTS                                      │
-│    Modern applications · APIs · Business systems            │
-│                                                             │
-│  ● AI EXPERIMENTS                                           │
-│    Exploring practical applications of AI                   │
-│                                                             │
-│  ● GITHUB                                                    │
-│    Building a stronger collection of real projects          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-10 / LET'S BUILD
+GitHub
 <div align="center">
-¿TIENES UNA IDEA?
-Transformémosla en un producto digital.
-<br> <a href="mailto:codingcrow653@gmail.com"> <img src="https://img.shields.io/badge/HABLEMOS-00C7B7?style=for-the-badge&logo=gmail&logoColor=0B1117" /> </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DarkCrow653&show_icons=true&hide_border=true&bg_color=0B1117&title_color=00C7B7&icon_color=00C7B7&text_color=C8D1D9&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkCrow653&hide_border=true&background=0B1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=C8D1D9&dates=7D8590" width="48%" />
 
 <br><br>
 
-<a href="https://richard-porfolio.netlify.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-20252D?style=for-the-badge&logo=googlechrome&logoColor=00C7B7" /> </a> <a href="https://www.linkedin.com/in/richard-bouza-acosta-dev/"> <img src="https://img.shields.io/badge/LINKEDIN-20252D?style=for-the-badge&logo=linkedin&logoColor=00C7B7" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCrow653&layout=compact&hide_border=true&bg_color=0B1117&title_color=00C7B7&text_color=C8D1D9" width="42%" />
+
+</div>
+<div align="center">
+Let's Build Something
+
+Have an idea that needs to become a real product?
+
+<br> <a href="mailto:codingcrow653@gmail.com"> <img src="https://img.shields.io/badge/START_A_PROJECT-00C7B7?style=for-the-badge&logo=gmail&logoColor=0B1117"/> </a>
 
 <br><br>
 
-📍 La Habana, Cuba
+<a href="https://richard-porfolio.netlify.app"> Portfolio </a>
 
-📧 codingcrow653@gmail.com
+  ·  
+
+<a href="https://www.linkedin.com/in/richard-bouza-acosta-dev/"> LinkedIn </a>
+
+  ·  
+
+<a href="mailto:codingcrow653@gmail.com"> Email </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C7B7&height=2" width="70%" /> <br>
-CODE. DESIGN. SOLUTIONS. IMPACT.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C7B7&height=2" width="55%"/> <br>
 
-Richard Bouza Acosta · Full Stack Developer
+<sub>CODE · DESIGN · SOLUTIONS · IMPACT</sub>
+
+<br><br>
+
+<strong>Richard Bouza Acosta · Full Stack Developer</strong>
 
 </div> ```
